@@ -7,7 +7,19 @@ package me.spartacus04.colosseum.utils.version
  */
 enum class MinecraftRevisions(val version: String) {
     /**
-     * 1.21.5 - later
+     * 1.21.8
+     */
+    R26("1.21.8"),
+    /**
+     * 1.21.7
+     */
+    R25("1.21.7"),
+    /**
+     * 1.21.6
+     */
+    R24("1.21.6"),
+    /**
+     * 1.21.5
      */
     R23("1.21.5"),
     /**
